@@ -10,6 +10,8 @@ body {
   color: #868e96;
 }
 
+
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -92,6 +94,8 @@ p.lead {
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
+
+
 
 @media (min-width: 992px) {
   #sideNav {
@@ -190,3 +194,5 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+
